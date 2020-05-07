@@ -36,3 +36,31 @@
     transform: rotate(360deg);
   }
 }
+
+.top {
+  position: absolute;
+  top: 4%;
+  background: blue;
+  color: white;
+}
+
+.bottom {
+  position: absolute;
+  bottom: 89%;
+  background: blue;
+  color: white;
+}
+.left {
+  position: absolute;
+  top: 6%;
+  left: 41%;
+  background: blue;
+  color: white;
+}
+.right {
+  position: absolute;
+  top: 6%;
+  right: 41%;
+  background: blue;
+  color: white;
+}
